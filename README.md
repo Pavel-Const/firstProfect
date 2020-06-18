@@ -1,4 +1,9 @@
-# firstProfect
+# Frontend Praktikum
+  
+## Ссылка на сайт
+   https://Pavel-Const.github.io/firstProfect
+   
+## Задачи
 
 изучение основных навыков HTML и CSS
 
