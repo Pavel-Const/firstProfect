@@ -15,7 +15,7 @@ flexbox верстка
 
 ### используются технологии
 
-    JS, CSS, HTML, WebPack, GIT
+    CSS, HTML, WebPack, GIT
     
 ### используются пакеты для webpack:
     "@babel/cli": "^7.8.4",
